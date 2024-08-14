@@ -3,3 +3,7 @@
 *.svg linguist-vendored
 *.gif linguist-vendored
 *.bmp linguist-vendored
+
+*.php linguist-language=PHP
+*.js linguist-language=JavaScript
+*.css linguist-language=CSS
